@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+.idea/*
+.vscode
+*.syblime
+build/
+node_modules/
+nmp-debug.*
